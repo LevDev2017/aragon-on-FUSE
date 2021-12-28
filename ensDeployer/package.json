@@ -1,0 +1,17 @@
+{
+  "name": "ens-deployer",
+  "version": "1.0.0",
+  "description": "",
+  "devDependencies": {},
+  "scripts": {
+    "clean": "truffle networks --clean",
+    "compile": "truffle compile",
+    "migrate": "truffle migrate --network private"
+  },
+  "dependencies": {
+    "@ensdomains/ens": "^0.6.2",
+    "@ensdomains/ens-contracts": "^0.0.7",
+    "@ensdomains/resolver": "^0.3.1",
+    "@truffle/hdwallet-provider": "^1.6.0"
+  }
+}
