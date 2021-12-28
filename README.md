@@ -29,7 +29,7 @@ ROPSTEN_URL="Your Ropsten RPC"
 GANACHE_URL=http://127.0.0.1:8545
 GANACHE_PRIVATE_KEY="Your Private Key(Ganache)"
 FUSE_EXPLORER_URL=https://explorer.fuse.io/
-ROPSTEN_EXPLORER_URL=https://ropsten.etherscan.io/
+ROPSTEN_EXPLORER_URL=https://ropsten.etherscan.io/ 
 ```
 
 ## Step 3: Clean and compile
